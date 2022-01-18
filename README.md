@@ -4,10 +4,12 @@
 
 ## Overview
 This is a virtual assistant made by python named **Friday** (motivated by iron man movies)
-this can talk like Friday but not at the level as we imagine.                                             
+this can talk like Friday but not at the level as we imagine.                                            
 
 This can do several works through **voice commands** given by us.
 
+We will stay in the consumer place and check everything in our project and makes everyone 
+happy with our work
 ## Working
 It will talk to you and wishes you concerning the time,
 When you command as **tell me a joke** and can send emails and writes mail content what you speak it converts speech to text, this function works when you say **send mail**. It can take screenshot shutdown, restart, and log out through voice commands. It will also tell time with the command **tell time**. Tells the **CPU** working frequency and can search Wikipedia and opens some top websites to search meanings of words this project will be extended concerning time for me and my team.we introduced a GUI interface for our assistant.
@@ -22,8 +24,10 @@ Instead of playing only one song while Friday intro and satrtup we addded few mo
 ## Installation on Windows (64-bit)
 Go to [Releases](https://github.com/https-github-com-zameel28/F.R.I.D.A.Y/releases) and download the your file and open folder and follow instructions on screen.
 The better is to download **console** version to understand when it is listening......
+## First view
+![F.R.I.D.A.Y.](https://i.ibb.co/qkQZP8Y/Screenshot-2021-10-30-125722.jpg)
 
-![F.R.I.D.A.Y.](https://ibb.co/m6WxMK5)
+click **initialize** to start program
 
 ## Commands
 open calender - opens calender  
@@ -167,4 +171,3 @@ Pull requests are welcome. Please open an issue first to discuss what you would 
 Please make sure to update tests as appropriate.
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
